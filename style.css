@@ -1,0 +1,47 @@
+body{
+text-align:center;
+background-color: aliceblue;
+}
+
+.images{
+    width: 300px;
+    height: 300px;
+}
+
+.img{
+    width: 700px;
+}
+
+#myCarousel img{
+    height: 300;
+    margin-top: 35px;
+}
+
+p{
+font-size: 25px;
+}
+
+.carousel{
+margin-bottom: 15px;
+margin-top: 15px;
+}
+
+.menu{
+list-style: none;
+position:absolute;
+font-family:Roboto Mono;
+color:black;
+z-index: 10;
+top: 10px;
+right:30px;
+cursor: pointer;
+font-size: 15px;
+}
+
+.links{
+padding-top:5px;
+padding-bottom: 5px;
+padding-left: 9px;
+padding-right: 9px;
+float: left;
+color:black;
